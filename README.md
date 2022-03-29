@@ -1,2 +1,2 @@
-# Gymnso_Fitness
+# Gymso_Fitness
 WT Mini Project
